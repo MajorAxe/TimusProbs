@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Очередной пробный тур", "Очередной пробный тур\Очередной пробный тур.vcxproj", "{73E65655-2660-44D2-BE00-5201196580BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E65655-2660-44D2-BE00-5201196580BD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73E65655-2660-44D2-BE00-5201196580BD}.Debug|Win32.Build.0 = Debug|Win32
+		{73E65655-2660-44D2-BE00-5201196580BD}.Release|Win32.ActiveCfg = Release|Win32
+		{73E65655-2660-44D2-BE00-5201196580BD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

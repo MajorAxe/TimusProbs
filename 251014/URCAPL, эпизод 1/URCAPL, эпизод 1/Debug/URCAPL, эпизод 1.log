@@ -1,0 +1,32 @@
+﻿Build started 26.10.2014 1:55:17.
+     1>Project "E:\Учёба\Олимп прог\251014\URCAPL, эпизод 1\URCAPL, эпизод 1\URCAPL, эпизод 1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\URCAPL, эпизод 1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Games\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\URCAPL, эпизод 1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "URCAPL, эпизод 1.cpp"
+         URCAPL, эпизод 1.cpp
+     1>e:\учёба\олимп прог\251014\urcapl, эпизод 1\urcapl, эпизод 1\urcapl, эпизод 1.cpp(41): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>e:\учёба\олимп прог\251014\urcapl, эпизод 1\urcapl, эпизод 1\urcapl, эпизод 1.cpp(152): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\games\microsoft visual studio 10.0\vc\include\stdio.h(249) : see declaration of 'freopen'
+     1>e:\учёба\олимп прог\251014\urcapl, эпизод 1\urcapl, эпизод 1\urcapl, эпизод 1.cpp(147): warning C4715: 'dostuff' : not all control paths return a value
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Games\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Учёба\Олимп прог\251014\URCAPL, эпизод 1\Debug\URCAPL, эпизод 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\URCAPL, эпизод 1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Учёба\Олимп прог\251014\URCAPL, эпизод 1\Debug\URCAPL, эпизод 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Учёба\Олимп прог\251014\URCAPL, эпизод 1\Debug\URCAPL, эпизод 1.lib" /MACHINE:X86 "Debug\URCAPL, эпизод 1.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\URCAPL, эпизод 1.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\URCAPL, эпизод 1.exe.embed.manifest" /manifest "Debug\URCAPL, эпизод 1.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         URCAPL, эпизод 1.vcxproj -> E:\Учёба\Олимп прог\251014\URCAPL, эпизод 1\Debug\URCAPL, эпизод 1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\URCAPL, эпизод 1.unsuccessfulbuild".
+         Touching "Debug\URCAPL, эпизод 1.lastbuildstate".
+     1>Done Building Project "E:\Учёба\Олимп прог\251014\URCAPL, эпизод 1\URCAPL, эпизод 1\URCAPL, эпизод 1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.41

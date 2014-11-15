@@ -1,0 +1,14 @@
+3: Ayzenshteyn
+9: Burmistrov
+5: Chevdar
+11: Cormen
+7: Dublennykh
+6: Fominykh
+0: Isenbaev
+8: Ivankov
+10: Kurpilyanskiy
+12: Leiserson
+1: Oparin
+13: Rivest
+4: Samsonov
+2: Toropov

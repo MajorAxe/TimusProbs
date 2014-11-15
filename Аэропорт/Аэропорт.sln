@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Аэропорт", "Аэропорт\Аэропорт.vcxproj", "{F805F9E0-3362-4135-B55F-0CD1D24BB493}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F805F9E0-3362-4135-B55F-0CD1D24BB493}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F805F9E0-3362-4135-B55F-0CD1D24BB493}.Debug|Win32.Build.0 = Debug|Win32
+		{F805F9E0-3362-4135-B55F-0CD1D24BB493}.Release|Win32.ActiveCfg = Release|Win32
+		{F805F9E0-3362-4135-B55F-0CD1D24BB493}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
