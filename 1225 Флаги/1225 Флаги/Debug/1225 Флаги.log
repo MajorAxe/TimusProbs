@@ -1,0 +1,30 @@
+﻿Build started 04.10.2015 17:38:09.
+     1>Project "E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\1225 Флаги\1225 Флаги.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\1225 Флаги.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Games\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\1225 Флаги.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "1225 Флаги.cpp"
+         1225 Флаги.cpp
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\1225 Флаги.exe.embed.manifest.res" "Debug\1225 Флаги_manifest.rc" 
+       Link:
+         C:\Games\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1225 Флаги.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.lib" /MACHINE:X86 "Debug\1225 Флаги.exe.embed.manifest.res"
+         "Debug\1225 Флаги.obj"
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\1225 Флаги.exe.embed.manifest" /manifest "Debug\1225 Флаги.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\1225 Флаги.exe.embed.manifest.res" "Debug\1225 Флаги_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Games\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\1225 Флаги.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.lib" /MACHINE:X86 "Debug\1225 Флаги.exe.embed.manifest.res"
+         "Debug\1225 Флаги.obj"
+         Debug\stdafx.obj
+         1225 Флаги.vcxproj -> E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\Debug\1225 Флаги.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\1225 Флаги.unsuccessfulbuild".
+         Touching "Debug\1225 Флаги.lastbuildstate".
+     1>Done Building Project "E:\Учёба\Олимп прог\TimusProbs\1225 Флаги\1225 Флаги\1225 Флаги.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.78

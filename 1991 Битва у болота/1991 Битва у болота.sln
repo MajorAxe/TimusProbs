@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1991 Битва у болота", "1991 Битва у болота\1991 Битва у болота.vcxproj", "{F3C30844-B2EF-412C-B53B-C9EDB25EA75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C30844-B2EF-412C-B53B-C9EDB25EA75B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3C30844-B2EF-412C-B53B-C9EDB25EA75B}.Debug|Win32.Build.0 = Debug|Win32
+		{F3C30844-B2EF-412C-B53B-C9EDB25EA75B}.Release|Win32.ActiveCfg = Release|Win32
+		{F3C30844-B2EF-412C-B53B-C9EDB25EA75B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
